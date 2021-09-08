@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    font-family: 'Areal';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    text-align: center;
+    color: brown;
+}
